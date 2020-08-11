@@ -23,12 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9de10d2-0c88-4808-a6da-41a4193c43db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sql/answer1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer1.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sql/answer2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer2.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sql/answer3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer3.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../duet-816-RoberteFlaherty" beforeDir="false" afterPath="$PROJECT_DIR$/../duet-816-RoberteFlaherty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +87,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597098276794</updated>
       <workItem from="1597098277805" duration="5358000" />
-      <workItem from="1597103760544" duration="593000" />
+      <workItem from="1597103760544" duration="1174000" />
     </task>
     <servers />
   </component>
